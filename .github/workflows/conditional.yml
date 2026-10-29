@@ -10,5 +10,5 @@ jobs:
   goodbye-moon:
     runs-on: ubuntu-latest
     steps:
-      - name: "Goodbye Moon"
-        run:  echo "Goodbye Moon!"
+      - name: "Goodbye NOEL!"
+        run:  echo "Goodbye NOEL!"
